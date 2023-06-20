@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25em, 1fr));
+  gap: 1.25em;
+
+  margin-top: 2em;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1em;
+  background-color: #d2d2d2;
+}
+
+nav img {
+  width: 104px;
+  height: 104px;
+  object-fit: cover;
+  border-radius: 0.25em;
+  margin: 1em 0;
+}
+
+.menu ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.menu ul li {
+  margin-right: 1em;
+}
+
+.menu ul li:last-child {
+  margin-right: 0;
+}
+
+.menu ul li a {
+  text-decoration: none;
+}
+
+main {
+  margin-top: 2em;
+  padding: 2em;
+}
+
+.categories-container {
+  height: 73px;
+  display: flex;
+}
+
+.category {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 24px;
+}
+
+.category span {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.1);
+}
+
+.product-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #666;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.product-container img {
+  width: 120px;
+  height: 96px;
+  border-radius: 8px;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.product-container img:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+
+.product-details {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-details span:first-child {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.product-details span:last-child {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.product-details-description {
+  font-size: 14px;
+  color: #666;
+  margin: 8px 0;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #d2d2d2;
+  padding: 1em;
+  text-align: center;
+}
