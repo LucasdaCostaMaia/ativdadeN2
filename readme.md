@@ -4,9 +4,11 @@
 
 ## Links
 
-
 | Projetos | README |
 | ------ | ------ |
-| 1 | [https://lucasdacostamaia.github.io/atividadeN2/Culinaria/site-culinaria] |
-| 2 | [https://lucasdacostamaia.github.io/atividadeN2/Restaurante/] |
-| 3 | [https://lucasdacostamaia.github.io/atividadeN2/Festival/3hotsite] |
+| 1 | [site-culinaria](atividadeN2/Culinaria/site-culinaria) |
+| 2 | [Restaurante](atividadeN2/Restaurante/) |
+| 3 | [Festival](atividadeN2/Festival/3hotsite) |
+
+
+# Feito com ❤️ by Ana Julia, Beatriz e Lucas
