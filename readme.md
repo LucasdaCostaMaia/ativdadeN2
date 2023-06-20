@@ -7,6 +7,6 @@
 
 | Projetos | README |
 | ------ | ------ |
-| 1 | [https://lucasdacostamaia.github.io/atividadeN2/Culinaria/site-culinaria][PlDb] |
-| 2 | [https://lucasdacostamaia.github.io/atividadeN2/Restaurante/][PlGh] |
-| 3 | [https://lucasdacostamaia.github.io/atividadeN2/Festival/3hotsite][PlGd] |
+| 1 | [https://lucasdacostamaia.github.io/atividadeN2/Culinaria/site-culinaria] |
+| 2 | [https://lucasdacostamaia.github.io/atividadeN2/Restaurante/] |
+| 3 | [https://lucasdacostamaia.github.io/atividadeN2/Festival/3hotsite] |
